@@ -28,7 +28,7 @@ class Dashboard extends StatelessWidget {
                     mainAxisAlignment: MainAxisAlignment.spaceBetween,
                     children: <Widget>[
                       Text(
-                        "Olá, Matheus!",
+                        "Olá, Vinicius!",
                         style: TextStyle(fontSize: 28),
                       ),
                       Icon(

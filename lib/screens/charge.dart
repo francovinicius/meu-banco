@@ -103,7 +103,7 @@ class _ChargeConfirm extends StatelessWidget {
                 const Padding(
                   padding: EdgeInsets.only(bottom: 32.0),
                   child: Text(
-                    "Matheus Oliveira Santos",
+                    "Vinicius Franco Duarte",
                     style: TextStyle(fontSize: 22, fontWeight: FontWeight.w700),
                   ),
                 ),
